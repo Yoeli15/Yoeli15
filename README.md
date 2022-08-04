@@ -1,6 +1,7 @@
 # Hi there 👋
 
 ## Yoeli y Oserina Díaz Ramírez
+<img align='right' src="https://uxwing.com/wp-content/themes/uxwing/download/education-school/computer-internet-woman-icon.png" width="230">
 <!--
 **Yoeli15/Yoeli15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
