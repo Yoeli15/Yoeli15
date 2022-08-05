@@ -60,7 +60,7 @@
 - Frontend: Javasript, CSS, HTML
 - IT Support
 
-## Technologies & Tools:
+## 🔧Technologies & Tools:
 - Visual Studio Code
 - Postman
 - Heroku
