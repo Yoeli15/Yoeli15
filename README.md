@@ -1,9 +1,9 @@
 # Hi there 👋
 
 ## Yoeli y Oserina Díaz Ramírez
-![](https://visitor-badge.glitch.me/badge?page_id=Yoeli15.Yoeli15)
-<img align='right' src="https://uxwing.com/wp-content/themes/uxwing/download/education-school/computer-internet-woman-icon.png" width="230">
 
+<img align='right' src="https://uxwing.com/wp-content/themes/uxwing/download/education-school/computer-internet-woman-icon.png" width="230">
+<br><br> Welcome to my Github! I´m Computer Engineering student at National Autonomous University of Mexico campus University City
 ## 🌱 I’m currently learning
 - Django Backend Developer at Bootcamp Hackademy MX
 
@@ -43,21 +43,24 @@
       </tr>
      </tbody>
   </table>
-- Shell: 
+- Shell: Windows | Linux
+- Git <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width = "30">
+- Frontend:
   <table>
      <tbody>
       <tr valign="top">
-        <td width="50%" align="center">
-          Windows <br> <img src="" width = "55">
+        <td width="40%" align="center">
+          Javascript <br> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width = "30">
         </td>
-        <td width="50%" align="center">
-          Linux <br> <img src="" width = "50">
+        <td width="30%" align="center">
+          CSS <br> <img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" width = "25">
+        </td>
+        <td width="30%" align="center">
+          HTML <br> <img src="https://jwkeena.github.io/assets/images/logo-html.png" width = "30">
         </td>
       </tr>
      </tbody>
   </table>
-- Git
-- Frontend: Javasript, CSS, HTML
 - IT Support
 
 ## 🔧Technologies & Tools:
@@ -69,22 +72,14 @@
 - Oracle VM VirtualBox
 - Cisco Packet Tracer
 
+## 👓Frameworks & Libraries
+- Django Rest Framework
+- Numpy
+- Pandas
+- Scikit-Learn
+- Matplotlib
+
 ## 📫 How to reach me
 - Correo 1: yodiaz.ramirez@gmail.com
 - Correo 2: yodiaz@comunidad.unam.mx
 - Correo 3: ada_hack183@hackademy.mx
-<!--
-**Yoeli15/Yoeli15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
