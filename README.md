@@ -5,9 +5,9 @@
 <img align='right' src="https://uxwing.com/wp-content/themes/uxwing/download/education-school/computer-internet-woman-icon.png" width="230">
 
 ## 🌱 I’m currently learning
-- Django
+- Django Backend Developer at Bootcamp Hackademy MX
 
-##Skills
+## Skills
 - Python
 - C
 - Java
