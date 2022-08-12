@@ -81,6 +81,6 @@
 - Matplotlib
 
 ## 📫 How to reach me
-- Correo 1: yodiaz.ramirez@gmail.com
+- Correo 1: ada_hack183@hackademy.mx
 - Correo 2: yodiaz@comunidad.unam.mx
-- Correo 3: ada_hack183@hackademy.mx
+- Correo 3: yodiaz.ramirez@gmail.com
