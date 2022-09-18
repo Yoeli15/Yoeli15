@@ -5,8 +5,8 @@
 <img align='right' src="https://uxwing.com/wp-content/themes/uxwing/download/education-school/computer-internet-woman-icon.png" width="230">
 <br><br> Welcome to my Github! I´m Computer Engineering student at National Autonomous University of Mexico campus University City
 
-## 🌱 I’m currently learning
-- Django Backend Developer at Bootcamp Hackademy MX
+## 🌱 I’m currently working
+- Development of Web Application at the Coordination of Oceanographic Platforms (COPO-UNAM) as a social service.
 
 ## Skills
 - Programming languages:
