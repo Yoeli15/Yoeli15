@@ -6,7 +6,7 @@
 <br><br> Welcome to my Github! I´m Computer Engineering student at National Autonomous University of Mexico campus University City
 
 ## 🌱 I’m currently working
-- Development of Web Application at the Coordination of Oceanographic Platforms (COPO-UNAM) as a social service.
+- Web Application Development as social service at the Platforms Coordination Oceanographic (COPO-UNAM).
 
 ## Skills
 - Programming languages:
