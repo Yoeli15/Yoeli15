@@ -3,7 +3,7 @@
 ## Yoeli y Oserina Díaz Ramírez
 ![](https://visitor-badge.glitch.me/badge?page_id=Yoeli15.Yoeli15)
 <img align='right' src="https://uxwing.com/wp-content/themes/uxwing/download/education-school/computer-internet-woman-icon.png" width="230">
-<br><br> Welcome to my Github! I´m Computer Engineering student at National Autonomous University of Mexico campus University City
+<br><br> Welcome to my Github! I´m Computer Engineering at National Autonomous University of Mexico campus University City
 
 ## 🌱 I’m currently working
 - Web Application Development as social service at the Platforms Oceanographic Coordination (COPO-UNAM).
@@ -82,5 +82,4 @@
 
 ## 📫 How to reach me
 - Correo 1: ada_hack183@hackademy.mx
-- Correo 2: yodiaz@comunidad.unam.mx
-- Correo 3: yodiaz.ramirez@gmail.com
+- Correo 2: yodiaz.ramirez@gmail.com
